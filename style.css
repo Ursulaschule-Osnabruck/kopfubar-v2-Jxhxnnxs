@@ -1,6 +1,38 @@
 body { 
     background-color: white;
+    width: 1000px;
+    margin: auto;
 }
 #garantie{
     background-color: #a7cece;
+    font-family: Georgia, "Times New Roman", serif;
+    color: #444444;
+    font-style: italic;
+    padding: 20px;
+    padding-left: 100px;
+    background-image: url(bilder/hintergrund.gif);
+    background-repeat: no-repeat;
+    margin: 50px;
+    margin-right: 350px;
 }
+#elixire{
+    float: right;
+    width: 280px;
+    text-align: center;
+    border: 1px solid;
+    
+}
+h2 {
+    color: black;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+h3 {
+    color: #d12c47;
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+}
+h1 {
+    color: #007e7e;
+    font-family: Verdana, Helvetica, Arial, sans-serif; 
+}
+
+
